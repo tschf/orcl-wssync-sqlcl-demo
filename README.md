@@ -1,7 +1,7 @@
 # Syncing data from a web service using SQLcl
 
 ---
-**note:** This is jsut example code. It doesn't actually do anything for you if you are looking on. For it to be useful, you would have to update the script `fetchAndLoad.js` with a meaningful webservice and appropriate credentials.
+**note:** This is just example code. It doesn't actually do anything for you if you are looking on. For it to be useful, you would have to update the script `fetchAndLoad.js` with a meaningful webservice and appropriate credentials.
 
 ---
 
